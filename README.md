@@ -1,1 +1,1 @@
-Repo moved to [https://github.com/JumperLuko/SicoobLinux-Configs_Apps](https://github.com/JumperLuko/SicoobLinux-Configs_Apps)
+Repositório movido para [github.com/JumperLuko/Sicoob-Instala](https://github.com/JumperLuko/Sicoob-Instala)
